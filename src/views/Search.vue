@@ -472,7 +472,7 @@
           </div>
           <div class="hotel-card">
             <div class="hotel-image">
-              <img src="@/assets/images/Byarsa@2x.png" alt="Byarsa Hotel" />
+              <img src="@/assets/images/byarsa@2x.png" alt="Byarsa Hotel" />
               <span class="wishlist"
                 ><img src="@/assets/images/wishlist.svg" alt="Wishlist"
               /></span>
