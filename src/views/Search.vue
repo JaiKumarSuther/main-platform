@@ -326,7 +326,7 @@
                 alt="K2 Base Camp Trekking"
               />
               <span class="wishlist"
-                ><img src="@/assets/images/Wishlist-filled.svg" alt="Wishlist"
+                ><img src="@/assets/images/wishlist-filled.svg" alt="Wishlist"
               /></span>
             </div>
             <div class="tour-info">
