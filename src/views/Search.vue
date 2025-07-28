@@ -553,7 +553,7 @@
           </div>
           <div class="car-card">
             <div class="car-image">
-              <img src="@/assets/images/Car.png" alt="K2 Base Camp Trekking" />
+              <img src="@/assets/images/car.png" alt="K2 Base Camp Trekking" />
               <span class="wishlist"
                 ><img src="@/assets/images/wishlist.svg" alt="Wishlist"
               /></span>
