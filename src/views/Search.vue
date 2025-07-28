@@ -373,7 +373,7 @@
           </div>
           <div class="paragliding-card">
             <div class="paragliding-image">
-              <img src="@/assets/images/Activity.png" alt="K2 Base Camp Trekking" />
+              <img src="@/assets/images/activity.png" alt="K2 Base Camp Trekking" />
               <span class="wishlist"
                 ><img src="@/assets/images/wishlist.svg" alt="Wishlist"
               /></span>
