@@ -504,7 +504,7 @@
           </div>
           <div class="bike-card">
             <div class="bike-image">
-              <img src="@/assets/images/Bike.png" alt="K2 Base Camp Trekking" />
+              <img src="@/assets/images/bike.png" alt="K2 Base Camp Trekking" />
               <span class="wishlist"
                 ><img src="@/assets/images/wishlist.svg" alt="Wishlist"
               /></span>

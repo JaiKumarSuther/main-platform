@@ -1,5 +1,5 @@
 <script setup>
-import slide1 from '@/assets/images/Bike.png'
+import slide1 from '@/assets/images/bike.png'
 </script>
 
 <template>
